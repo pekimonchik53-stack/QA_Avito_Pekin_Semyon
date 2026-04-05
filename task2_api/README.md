@@ -23,7 +23,7 @@ cd QA_Avito_Pekin_Semyon/task2_api
 #### 3. Установить зависимости
 ```
 pip install -r requirements.txt
-Если файла requirements.txt нет:
+Если файла requirements.txt вдруг нет:
 pip install requests pytest
 ```
 #### 4. Запустить тесты
